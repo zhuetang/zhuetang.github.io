@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zhuetang.github.io/sitemap.xml
+Sitemap: https://zhutang-web.github.io/sitemap.xml
